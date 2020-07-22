@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+12 years of experience in coding. Fullstack, DevOps, and ML in multiple languages like C#, Python, and Javascript.
+
+<!--![twsl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=twsl&show_icons=true)-->
+
 <!--
 **twsl/twsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
