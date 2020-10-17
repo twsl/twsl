@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-12 years of experience in coding. Fullstack, DevOps, and ML in multiple languages like C#, Python, and Javascript.
+12 years of experience in coding and reversing. Fullstack, DevOps, and ML in multiple languages like C#, Python, and Javascript.
 
 <!--![twsl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=twsl&show_icons=true)-->
 
