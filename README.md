@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 M.Sc. Computer Science with a focus on artificial intelligence, cognition, and robotics.
-14 years of experience in coding and reversing. 
+15 years of experience in coding and reversing. 
 Fullstack, DevOps, and ML in multiple languages like C#, Python, and Javascript.
 
 <!--![twsl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=twsl&show_icons=true)-->
