@@ -2,7 +2,7 @@
 
 M.Sc. Computer Science with a focus on artificial intelligence, cognition, and robotics.
 17 years of experience in coding and reversing. 
-Fullstack, DevOps, and ML in multiple languages like Python, C# and Typescript.
+Fullstack, DevOps, and ML in multiple languages like Python, C# and TypeScript.
 
 <!--![twsl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=twsl&show_icons=true)-->
 
